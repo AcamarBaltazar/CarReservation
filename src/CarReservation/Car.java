@@ -15,4 +15,8 @@ public class Car {
 	public void setColor(String color) {
 		this.color = color;
 	}
+
+	public static void main(String []args){
+		System.out.println("Hello");
+	}
 }
